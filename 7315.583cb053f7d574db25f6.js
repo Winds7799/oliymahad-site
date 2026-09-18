@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoliy_mahad_client=self.webpackChunkoliy_mahad_client||[]).push([[7315],{27315:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var a=t(67294),u=t(49429),c=t(33296),i=function(){return a.createElement(c.Z,{pageName:u.H.INSTITUTE_COUNCIL})}}}]);
